@@ -1,0 +1,32 @@
+public class JavaApplication294 {
+
+     public static void main(String[] args) throws IOException {  
+     
+      System.out.println("The prime numbers till 10,000 are");
+  
+       int number = 0;
+  
+       for (int i=1; i<=10000; i++)         
+       { 		  	  
+          int counter= 0; 
+          //counter to count the times remainder is not 0
+          for(number=i; number>=1; number--){
+	  
+             if(i%number==0){
+	      //logic to check if prime or not
+ 		         counter = counter + 1;
+	     }
+	}
+             if (counter==2){
+	  
+              System.out.println(i);
+             }	
+        }
+            
+    }
+    
+}
+___________________
+Kushagra Dhawan
+Section C
+BTech 1st year- CS
