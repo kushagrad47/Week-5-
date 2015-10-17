@@ -1,6 +1,6 @@
 # Week-5
 
-# JARVIS
+#HAL9000
 
 Write a program which prints all the prime numbers till 10000. 
 
@@ -15,7 +15,7 @@ The prime numbers till 10000 are:
 <br> .....
 
 
-# HAL9000 
+#JARVIS
 
 Write a program for Conway's Game of Life. 
 
